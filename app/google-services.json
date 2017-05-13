@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415140475718",
+    "firebase_url": "https://psusmartuniversity-fdaa4.firebaseio.com",
+    "project_id": "psusmartuniversity-fdaa4",
+    "storage_bucket": "psusmartuniversity-fdaa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415140475718:android:8668a027d3510046",
+        "android_client_info": {
+          "package_name": "com.weerapat.psu_smart_university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415140475718-m4jgqigmod3lnq4fqe3qrk5f3mu7h8dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weerapat.psu_smart_university",
+            "certificate_hash": "FFD868F7999FD11F246174A8625AA46248149C95"
+          }
+        },
+        {
+          "client_id": "415140475718-l7t4nm5cl5n5t81qs1spg1r63cuhgv5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK2Lyy5UKWCW3O31t9hkEwKx8yDDEP9LE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415140475718-l7t4nm5cl5n5t81qs1spg1r63cuhgv5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

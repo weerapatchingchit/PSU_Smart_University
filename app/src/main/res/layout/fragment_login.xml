@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundsplash"
+    android:gravity="center"
+    tools:context="com.weerapat.psu_smart_university.LoginFragment">
+
+
+
+    <EditText
+        android:id="@+id/studentId"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bgtext2"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"/>
+
+
+
+    <EditText
+        android:layout_below="@+id/studentId"
+        android:id="@+id/password"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bgtext2"
+        android:gravity="center"
+        android:inputType="textPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+
+
+
+    <ImageButton
+        android:layout_below="@+id/password"
+        android:id="@+id/submit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="ออกจากระบบ"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/loginbt"
+        android:scaleType="fitXY"
+        android:background="@android:color/transparent"/>
+
+</RelativeLayout>
